@@ -47,4 +47,4 @@ Calc(
 
 
 ## License
-MIT. Copyright (c) 2020 by Maczó Péter
+MIT. Copyright (c) 2017 by Maczó Péter
