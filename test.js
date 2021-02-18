@@ -31,7 +31,7 @@ function test_cases() {
         },
 
         {
-            fx: 'ROUND(AVERAGE($inp1,$inp2,$inp3),2)',
+            fx: 'ROUND(AVG($inp1,$inp2,$inp3),2)',
             inputs: {
                 $inp1: 5,
                 $inp2: 2,

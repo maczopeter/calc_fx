@@ -30,14 +30,14 @@ Calc(
 
     function OR(v1, v2) 
     function AND(v1, v2)
-    function IF(cond, v1, v2) 
-    function ABS(v) 
-    function MAX() 
-    function MIN()
+    function IF(condition, v1, v2) 
+    function ABS(value) 
+    function MAX(...arguments) 
+    function MIN(...arguments)
+    function SUM(...arguments) 
+    function AVG(...arguments)
     function MOD(v1, v2) 
-    function SUM() 
-    function AVERAGE()
-    function POWER(base, exp) 
-    function ROUND(nr, dig) 
+    function POWER(base, exponent) 
+    function ROUND(value, digit) 
 
 ```

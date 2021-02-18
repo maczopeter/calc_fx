@@ -23,7 +23,7 @@ function Calc(__$INPUTS, __$FX) {
     function MIN() { return Math.max(...arguments) };
     function MOD(v1, v2) { return v1 % v2 }
     function SUM() { if (arguments.length == 0) return 0; let _res = 0; for (var _i in arguments) _res += arguments[_i]; return _res; };
-    function AVERAGE() { if (arguments.length == 0) return 0; let _res = 0; for (var _i in arguments) _res += arguments[_i]; return _res / arguments.length; };
+    function AVG() { if (arguments.length == 0) return 0; let _res = 0; for (var _i in arguments) _res += arguments[_i]; return _res / arguments.length; };
     function POWER(a, b) { return Math.pow(a, b) }
     function ROUND(a, e) { return Math.round(a*(10**e))/(10**e) }
 }
