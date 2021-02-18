@@ -21,7 +21,7 @@ Calc(
         $inp2: 2,
         $inp3: 4
     },
-    'ROUND(AVERAGE($inp1,$inp2,$inp3),2)'
+    'ROUND(AVG($inp1,$inp2,$inp3),2)'
 )
 
 ```
