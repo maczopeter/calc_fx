@@ -4,14 +4,16 @@
 * ( no additional package needed )
 
 
+
 ## Function call in general
 ```js
 Calc(inputs,fx)
 ```
 
+
+
 ## Function call example
 ```js
-
 
 Calc(
     {
@@ -23,6 +25,7 @@ Calc(
 )
 
 ```
+
 
 
 ## Math functions
@@ -41,3 +44,7 @@ Calc(
     function ROUND(value, digit) 
 
 ```
+
+
+## License
+MIT. Copyright (c) 2020 by Maczó Péter
